@@ -20,11 +20,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 13635723190272
-    m_Key: SampleScene/Canvas/ByeText2
+    m_Key: Goodbye
     m_Metadata:
       m_Items: []
   - m_Id: 14808601583616
-    m_Key: SampleScene/Canvas/ThankText
+    m_Key: Thank
     m_Metadata:
       m_Items: []
   m_Metadata:
