@@ -16,7 +16,8 @@ MonoBehaviour:
     m_Code: en-US
   m_SharedData: {fileID: 11400000, guid: cc46ea545748548eb93677dada4eea2c, type: 2}
   m_Metadata:
-    m_Items: []
+    m_Items:
+    - rid: 5449693290592468994
   m_TableData:
   - m_Id: 14964219904
     m_Localized: Hello
@@ -30,6 +31,16 @@ MonoBehaviour:
     m_Localized: Thank
     m_Metadata:
       m_Items: []
+  - m_Id: 20376036827136
+    m_Localized: '{global.player-name} has {apple-component.appleCount:plural:an
+      apple|{} apples}'
+    m_Metadata:
+      m_Items:
+      - rid: 5449693290592468994
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 5449693290592468994
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e06f2a88120000

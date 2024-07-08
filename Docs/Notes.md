@@ -1,0 +1,3 @@
+- Need to set a default locale in Edit > Project Settings
+- Right click on Text/Sprite/Sound > Localize: Auto setup Update function
+- For Local Variables, must drag and drop the component of game object which contains the value
